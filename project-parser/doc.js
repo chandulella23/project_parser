@@ -1,13 +1,17 @@
 var mammoth = require("mammoth");
 var fs=require('fs');
-var x=require("./words.js");
+//var x=require("./words.js");
+var rowbyrow=require("./logic.js");
+
 
 var mailData,genderData,phoneData;
-var mail=[],gender=[],phone=[];
+var mail=[],gender=[],phone=[],newLines=[];
+var html="";
 
 mammoth.extractRawText({path: __dirname+ "/Chandu CV.docx"})
     .then(function(result){
-        var html = result.value; // The generated HTML
+        html = result.value; // The generated HTML
+        console.log(html);
         var messages = result.messages; // Any messages, such as warnings during conversion
 
         //writing resulted raw data to an external file;
@@ -18,47 +22,8 @@ mammoth.extractRawText({path: __dirname+ "/Chandu CV.docx"})
             console.log('file saved!');
 
             //reading file after file has written
-            fs.readFile('./plainText.txt', 'utf8', function(err, contents) {
+            rowbyrow.myCode();
 
-                 mail=contents.match(/\w+[.]?\w+@\w+.\w{3}/);
-                 console.log(mail[0]);
-                 mailData=mail[0];
-
-
-                 gender=contents.match(/male/i);
-                 console.log(gender[0]);
-                 if(gender[0].toLowerCase() == "male")
-                 {
-                   genderData="Male"
-                 }
-                 else{
-                   genderData="Female"
-                 }
-
-                 phone=contents.match(/[0-9]{10}/);
-                 console.log(phone[0]);
-                 phoneData=phone[0];
-
-                 foo(mailData,genderData,phoneData);
-
-            }); //end of reading a file
         }); //end of writing a file
     }) //end of mammoth
     .done();
-
-
-function foo(email,gender,mobile)
-{
-  x.obj.email=email;
-  x.obj.gender=gender;
-  x.obj.mobile=mobile;
-}
-
-
-//just checkin whethere words is displaying in json format or not
-var express=require('express');
-var app=express();
-app.get('/',(req,res)=>{
-  res.send(x);
-})
-app.listen(3000);
