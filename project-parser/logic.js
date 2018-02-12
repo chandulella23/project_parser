@@ -7,7 +7,15 @@ module.exports.myCode=function(){
   var lines=[];
   var keyword;
   var words=["ACADEMIC QUALIFICATIONS","PROJECT EXPERIECE","POSITIONS OF RESPONSIBILITY","ACHIEVEMENTS","TECHNICAL SKILLS","PERSONAL DETAILS"]
-
+  var keySkills=['autocad','ajax','asp.net','asp.net','ado.net','gwt','android','automation','animation','angular js','artifical intelligence','bootstarp','c','c++','c#',
+                  'core java','css','computer hardware','cloud computing','computer operating system','dataware','data analysis','data science','data structure','database management',
+                  'data entty','embedded system','embedded c','express','codeigniter','functional testing','graphics design','google analytics','html','hardware','hadoop','java',
+                  'jquery','javascript','js','j2ee','jsp','linux','matlab','mongodb','mongoose','networking','network administration','network security','network management',
+                  'node js','node-js','react-js','reactjs','office management','operation manangemnt','microsoft excel','microsoft word','microsoft presentation','php','pascal','project management',
+                  'photoshop','perl','r lanaguage','r programming','r studio','robotics','research','ruby','ruby on rails','rearch and development','software development','scala','software testing','sql',
+                  'sap','abap programming','sap abap','shell scripting','seo','selenium','security','servlet','site execution','testing','technical support','tally','unix',
+                  'unix shell scripting','vb.net','visual design','visi design','web development','wordpress','warehouse management','xml','xhtml',
+                  'saas','hibernate','json']
   function cleanStr(str) {
     return str.replace(/\r?\n|\r|\t|\n/g, '').trim();
   }
@@ -35,7 +43,7 @@ module.exports.myCode=function(){
 
     if(err) throw err;
     else{
-      var data  = cleanTextByRows(data);
+      var data  = cleanTextByRows(data).toLowerCase();
       //console.log(clearRows);
 
       fs.writeFile('message.txt', data, (err) => {
@@ -47,6 +55,7 @@ module.exports.myCode=function(){
 
   function keyWords(clearRows)
   {
+    skills(clearRows)
     //console.log(clearRows);
     for(let j=0;j<words.length;j++)
     {
@@ -74,6 +83,23 @@ module.exports.myCode=function(){
     }
   }
   }
+
+//logic for key skills
+function skills(clearRows){
+  var r=/html/
+  clearRows1=clearRows
+  for(i=0;i<clearRows.length;i++){
+    for(j=0;j<keySkills.length;j++){
+      if(clearRows1[i].includes(keySkills[j])){
+        console.log('::Technical skills::',keySkills[j])
+      }
+      else{
+        console.log("::Nopes::")
+      }
+    }
+    
+  }
+}
 
   //just checkin whethere words is displaying in json format or not
   var express=require('express');
