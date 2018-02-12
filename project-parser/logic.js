@@ -7,15 +7,13 @@ module.exports.myCode=function(){
   var lines=[];
   var keyword;
   var words=["ACADEMIC QUALIFICATIONS","PROJECT EXPERIECE","POSITIONS OF RESPONSIBILITY","ACHIEVEMENTS","TECHNICAL SKILLS","PERSONAL DETAILS"]
-  var keySkills=['autocad','ajax','asp.net','asp.net','ado.net','gwt','android','automation','animation','angular js','artifical intelligence','bootstarp','c','c++','c#',
-                  'core java','css','computer hardware','cloud computing','computer operating system','dataware','data analysis','data science','data structure','database management',
-                  'data entty','embedded system','embedded c','express','codeigniter','functional testing','graphics design','google analytics','html','hardware','hadoop','java',
-                  'jquery','javascript','js','j2ee','jsp','linux','matlab','mongodb','mongoose','networking','network administration','network security','network management',
-                  'node js','node-js','react-js','reactjs','office management','operation manangemnt','microsoft excel','microsoft word','microsoft presentation','php','pascal','project management',
-                  'photoshop','perl','r lanaguage','r programming','r studio','robotics','research','ruby','ruby on rails','rearch and development','software development','scala','software testing','sql',
-                  'sap','abap programming','sap abap','shell scripting','seo','selenium','security','servlet','site execution','testing','technical support','tally','unix',
-                  'unix shell scripting','vb.net','visual design','visi design','web development','wordpress','warehouse management','xml','xhtml',
-                  'saas','hibernate','json']
+  var keySkills=['autocad','asp.net','automation','android','animation','angular','angular js','analytics','bootstap','css','core java',
+                  'c#','c','c++','data structures','data minning','data analysis','desgning','embedded systems','embedded c','functional testing',
+                  'graphics designs','google analytics','hardware','hadoop','information security','js','javascript','jquery','jsp','j2ee',
+                  'linux','manual testing','matlab','networking','network administration','network security','network management','oracle',
+                  'oracle dba','operation management','php','pascal','photoshop','research','reserch and development','r language','r studio',
+                  'scala','software testing','sql','sap abap','software developmemnt','testing','technical support','shell scripting','unix'
+                  ,'unigraphics','vb.net','visi design','web development','wordpress','warehouse management','xml','html','java',]
   function cleanStr(str) {
     return str.replace(/\r?\n|\r|\t|\n/g, '').trim();
   }
@@ -43,7 +41,7 @@ module.exports.myCode=function(){
 
     if(err) throw err;
     else{
-      var data  = cleanTextByRows(data).toLowerCase();
+      var data  = cleanTextByRows(data);
       //console.log(clearRows);
 
       fs.writeFile('message.txt', data, (err) => {
@@ -84,29 +82,28 @@ module.exports.myCode=function(){
   }
   }
 
-//logic for key skills
-function skills(clearRows){
-  var r=/html/
-  clearRows1=clearRows
-  for(i=0;i<clearRows.length;i++){
-    for(j=0;j<keySkills.length;j++){
-      if(clearRows1[i].includes(keySkills[j])){
-        console.log('::Technical skills::',keySkills[j])
+  function skills(clearRows){
+    var count=0;
+    clearRows=clearRows.toString().toLowerCase();
+    //console.log(keySkills.length);
+    for(i=0;i<keySkills.length;i++)
+    {
+
+      if(clearRows.includes(keySkills[i]))
+      {
+            console.log(keySkills[i]);
       }
-      else{
-        console.log("::Nopes::")
-      }
+
     }
-    
+//console.log(count);
   }
-}
 
-  //just checkin whethere words is displaying in json format or not
-  var express=require('express');
-  var app=express();
-  app.get('/',(req,res)=>{
-    res.send(x);
-  })
-  app.listen(3000);
-
-}
+//   //just checkin whethere words is displaying in json format or not
+//   var express=require('express');
+//   var app=express();
+//   app.get('/',(req,res)=>{
+//     res.send(x);
+//   })
+//   app.listen(3000);
+//
+ }

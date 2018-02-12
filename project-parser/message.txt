@@ -1,44 +1,44 @@
-lella chandu sai
-male
-email: chandulella77@gmail.com
-mobile: (+91) 9872426742
-academic qualifications
-year of passing
-degree
-institute
-cgpa / percentage
+Lella Chandu Sai
+Male
+Email: chandulella77@gmail.com
+Mobile: (+91) 9872426742
+ACADEMIC QUALIFICATIONS
+Year of Passing
+Degree
+Institute
+CGPA / Percentage
 2018(pursuing)
-b.tech(computer science engineering)
-lovely professional university, phagwara
+B.Tech(Computer Science Engineering)
+Lovely Professional University, Phagwara
 7.81/10
 2014
-xii(bieap)
-narayana junior college ,kodad
+XII(BIEAP)
+Narayana Junior College ,Kodad
 92.0 %
 2012
-x(ssc)
-sri chaitanya techno schools ,kodad
+X(SSC)
+Sri Chaitanya Techno Schools ,Kodad
 9.2/10
-project experiece
-java based virtual class room site                                                                                                                 march 2017
-working on a project which is a user-driven gui based java application site. this site is helpful to all streams of students to clear their academic doubts from other students. peer to peer learning is developed in this site. by using net beans ide this site has been developed.
-positions of responsibility
-coordinator, xlr8 event – lovely professional university                    2016-2017
-captain, caesars cricket team – sri chaitanya techno schools   2010-2012
-head boy, caesars group – sri chaitanya techno schools           2010-2012
-hosted three events                                                                                                                                        2012-2018
-achievements
-certification
-trained in web-development.
-extra circular achievements
-developed and deployed a virtual class application in google play store.                               2017
-worked as a mentor in doubt clearing sessions                                                                          2016-2017
-awarded 1st prize in scts cricket championship– cricket competition organized by sri chaitanya techno schools.                                                                                                                                     2011-2012
-awarded 2nd prize in envigmania-ii, organized by sankalp envio organization in lovely professional university                                                                                                                                  2014-2015
-technical skills
-languages: c/c++, html, css, data structures, core java.
-database: mysql.
-personal details
-date of birth:23rd november 1996
-nationality:indian
-address: h.no 8-14, sarveswarapuram, near primary high school, kodad,  –508206, telangana
+PROJECT EXPERIECE
+Java Based Virtual Class Room site                                                                                                                 March 2017
+Working on a project which is a user-driven GUI based Java application site. This site is helpful to all streams of students to clear their academic doubts from other students. Peer to Peer learning is developed in this site. By using net beans IDE this site has been developed.
+POSITIONS OF RESPONSIBILITY
+Coordinator, XLR8 Event – Lovely Professional University                    2016-2017
+Captain, Caesars Cricket Team – Sri Chaitanya Techno Schools   2010-2012
+Head Boy, Caesars group – Sri Chaitanya Techno Schools           2010-2012
+Hosted three events                                                                                                                                        2012-2018
+ACHIEVEMENTS
+Certification
+Trained in Web-Development.
+Extra circular Achievements
+Developed and deployed a Virtual Class Application in Google Play Store.                               2017
+Worked as a mentor in doubt clearing sessions                                                                          2016-2017
+Awarded 1st Prize in SCTS Cricket Championship– Cricket Competition organized by Sri Chaitanya Techno Schools.                                                                                                                                     2011-2012
+Awarded 2nd Prize in Envigmania-II, organized by Sankalp Envio Organization in Lovely Professional University                                                                                                                                  2014-2015
+TECHNICAL SKILLS
+Languages: C/C++, HTML, CSS, Data Structures, Core Java.
+Database: MySQL.
+PERSONAL DETAILS
+Date of Birth:23rd November 1996
+Nationality:Indian
+Address: H.No 8-14, Sarveswarapuram, Near Primary High School, Kodad,  –508206, Telangana
