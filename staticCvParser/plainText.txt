@@ -1,114 +1,220 @@
+ANJU RANI
 
+Contact: +91-9996796726
 
-
-
-Lella Chandu Sai 
-
-Male
-
-Email: chandulella77@gmail.com
-
-Mobile: (+91) 9872426742
+E-Mail: jangra.anju93@gmail.com
 
 
 
 
 
-
-
-ACADEMIC QUALIFICATIONS
+OBJECTIVE
 
 
 
-Year of Passing
-
-Degree
-
-Institute
-
-CGPA / Percentage
-
-2018(pursuing)
-
-B.Tech(Computer Science Engineering)
-
-Lovely Professional University, Phagwara
-
-7.81/10
-
-2014
-
-XII(BIEAP)
-
-Narayana Junior College ,Kodad
-
-92.0 %
-
-2012
-
-X(SSC)
-
-Sri Chaitanya Techno Schools ,Kodad
-
-9.2/10
+To work with an organisation that gives opportunity to learn and grow & at the same time present with a chance to contribute towards the organisation growth.
 
 
 
 
 
- PROJECT EXPERIECE
-
-  Java Based Virtual Class Room site                                                                                                                 March 2017
-
-Working on a project which is a user-driven GUI based Java application site. This site is helpful to all streams of students to clear their academic doubts from other students. Peer to Peer learning is developed in this site. By using net beans IDE this site has been developed.
-
-hfhfjfbhffbbhhffff
+EXPERIENCE
 
 
 
-POSITIONS OF RESPONSIBILITY
-
-Coordinator, XLR8 Event – Lovely Professional University                    2016-2017                
-
-Captain, Caesars Cricket Team – Sri Chaitanya Techno Schools   2010-2012
-
-Head Boy, Caesars group – Sri Chaitanya Techno Schools           2010-2012
-
-Hosted three events                                                                                                                                        2012-2018
+Worked for 6 months as HR Executive with Alliance Employment Solution Pvt. Ltd. 
 
 
 
-ACHIEVEMENTS
+Roles & Responsibilities 
 
-Certification
+Handling end-to-end recruitment cycles.
 
-Trained in Web-Development.
+Sourcing and screening of candidates through job portals (Naukari, Monster and Shine).
 
-Extra circular Achievements
+Coordinated and conducted personal/Telephonic interviews at various levels.
 
-Developed and deployed a Virtual Class Application in Google Play Store.                               2017
+Handling other HR operations activity.
 
-Worked as a mentor in doubt clearing sessions                                                                          2016-2017
 
-Awarded 1st Prize in SCTS Cricket Championship– Cricket Competition organized by Sri Chaitanya Techno Schools.                                                                                                                                     2011-2012
 
-Awarded 2nd Prize in Envigmania-II, organized by Sankalp Envio Organization in Lovely Professional University                                                                                                                                  2014-2015 
+Skills
+
+Good knowledge of EPF, ESI, Bonus, Gratuity &Labour laws.
+
+Designing Salary Breakup.
+
+Payroll Processing.
+
+Leave Management.
+
+Time Management.
+
+Recruitment Cycle.
+
+
+
+
+
+SAP TRAINING
+
+
+
+SAP Human Capital Management with SAP ERP ECC 6.0 version.
+
+
+
+
+
+SAP HCM SKILLS
+
+
+
+Enterprise Structure
+
+     Client, Company Code, Personnel Area, Personnel Subarea, Employee Group, Employee Subgroup.
+
+
+
+Organizational Management (OM):
+
+    Organizational Structures, Reporting Structures, organizational and staffing mode, Expert Mode and Simple                            Maintenance mode. Creation of organizational objects: Organization units, Jobs and positions using Expert mode.
+
+
+
+Personnel Administration (PA):
+
+     Strong knowledge of enterprise structure, maintenance Master Data, Assignments of Personal Area, Personal Subarea, Employee group, Employee subgroup. Configuration of Payroll area, Payroll control record and Maintenance of Info types.
+
+
+
+Recruitment
+
+     Maintenance Advertisements, Create Postings.
+
+
+
+Time Management (TM):
+
+     Work Schedules, Absences, Break Schedules, Daily Work Schedules, Period Work Schedule, Holiday Calendar, Work Schedule Rule, Deduction Rule, Selection Rule, and Base entitlement, Absence Quota. 
+
+
+
+Payroll:
+
+    Configured payroll procedures using IMG by defining parameters of payroll module like period modifiers, date modifiers,                                   
+
+Payroll Area and respective control records. Created wage type and check wage type group for basic pay, additional payments, and recurring payments, defined their characteristics.    
+
+
+
+
 
 
 
 TECHNICAL SKILLS
 
-Languages: core java, HTML, CSS, Data Structures,c/c++,mongodb,leadership.
 
-Database: MySQL. 
+
+ERP SAP R/3
+
+Good knowledge of Ms Word, PowerPoint, Excel 
+
+Certification course on C Language
+
+Good knowledge of internet
+
+
+
+QUALITATIVE SKILLS
+
+
+
+Willingness to work in group
+
+Good communication and personal skills
+
+Good in dealing with different type of people
+
+Extremely dedicated towards work efficiency while working individually and team as well
+
+Confident and love to learn new things & detail conscious
+
+
+
+
+
+PROFESSIONAL TRAINING& PROJECTS
+
+
+
+MBA (SEM 1): E-Business Project
+
+MBA (SEM 3): A study of project in Work Engagement And Organizational Commitment Among Higher Educational Professionals: an empirical study
+
+Summer training in HR for 8 weeks from Saurav Chemicals Ltd, Derabassi (Punjab)
+
+Professional HR Generalist practical training of 2 months (June 2017to July2017) from G&B Training and Placement, Chandigarh.
+
+SAP HR training in all covering human resource modules of 4 months (September 2017 to December 2017) from G&B Training and Placement, Chandigarh.
+
+
+
+
+
+ACADEMIC CREDENTIALS
+
+
+
+MBA (HR and Marketing) from University School of Management, Kurukshetra University Kurukshetra in 2017.
+
+PGDCA from Directorate of Distance Education, Kurukshetra University Kurukshetra in 2015.
+
+BA (Maths and Psychology) from D.N. College, Kurukshetra University Kurukshetra in 2013.
+
+12thArts and Maths from BSEH in 2010 with 75.4% marks
+
+10th from BSEH in 2008 with 70% marks.
+
+
+
+EE
+
+EXTRA CURRICULAR ACTIVITIES
+
+
+
+Participated as NSS volunteer in a 7-days camp
+
+Participated as a player in Senior National KHO-KHO Championship 2010-11 held in Mumbai, Maharashtra
+
+Participated as a player in Haryana state school tournament and got 10th position
+
+Participated in poster making event of an annual function (The Croissance-2016) of the department 
+
+Participated in B-Plan and Nukkad Natak event of an annual function (Croissance-2017) of the department 
+
+Presented a paper titled “Climate Change In Indian Agriculture” at the national seminar on De-Risking Indian Agriculture: Crop Insurance Way supported by the NABARD
+
+Participated in Mathematics Essay Writing Competition of the college and got 3rd prize
+
+Certification course in Counselling & Psycho-Therapy
+
+
+
+
 
 PERSONAL DETAILS
 
-Date of Birth:23rd November 1996
-
-Nationality:Indian
-
-Address: H.No 8-14, Sarveswarapuram, Near Primary High School, Kodad,  –508206, Telangana      
 
 
+Data of Birth:  10th APRIL 1992
+
+Nationality:  Indian 
+
+Passport:                                                Yes
+
+Languages Known: English, Hindi
+
+Address                                                  H.no. 1142/8, Dukhbhanjan Colony, Kurukshetra (HR)- 136119
 

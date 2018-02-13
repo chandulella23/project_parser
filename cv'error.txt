@@ -1,0 +1,31 @@
+﻿amupatiala.docx----- Done!
+Report:
+1-Not working in express
+2-.txt file is coming without User Name
+3-Bullets are coming on Rectangles.
+
+*******************************************
+Mandeep (HR Recriter )-------Done!
+Report:
+1-somewhat working in express
+2-.txt file is coming well.
+3-Page is coming
+
+*******************************************
+resume_16964124_1502900735------Done! 
+Report:
+1-Not working in express
+2-.txt file is coming well. 
+3-Page is not cming coz he has included ended footer for paging
+******************************************
+resume_18970623_1512041056--------Done!
+Report:
+1-Seperator line is coming above "Summary"
+2-Bullets are not reading
+3-.txt file is coming well
+*****************************************
+RESUME-1--------Done!
+Report:
+1-Bullets are not reading
+2-No issues with seperator lines
+

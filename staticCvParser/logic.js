@@ -21,18 +21,17 @@ module.exports.myCode=function(){
   }
 
   function cleanTextByRows(data) {
-    var rows,
-        clearRow;
+    var rows,clearRow;
 
     rows = data.split("\n");
-
+    
     for (var i = 0; i < rows.length; i++) {
       clearRow = cleanStr(rows[i]);
       if (clearRow) {
         clearRows.push(clearRow);
       }
     }
-    //console.log(clearRows
+    
     keyWords(clearRows);
     clearRows=clearRows.join("\n") + "\n";
 
@@ -67,18 +66,17 @@ module.exports.myCode=function(){
       for(i=index;i<clearRows.length;i++)
       {
         let keyy=clearRows[i+1]
-        //console.log(keyy)
+        //console.log("keys are",keyy)
         if(words.includes(keyy))
         {
           break;
         }
         else{
           lines.push(keyy);
-
         }
         }
         //json(lines,words[j]);
-        //console.log(lines);
+        //console.log("lines are",lines);
         x.obj[words[j]]=lines;
     }
   }
