@@ -8,7 +8,7 @@ var mailData,genderData,phoneData;
 var mail=[],gender=[],phone=[],newLines=[];
 var html="";
 
-mammoth.extractRawText({path: __dirname+ "/Sample CVs/RESUME-1.docx"})
+mammoth.extractRawText({path: __dirname+ "/Sample CVs/Sample10.docx"})
     .then(function(result){
         html = result.value; // The generated HTML
         console.log(html);
