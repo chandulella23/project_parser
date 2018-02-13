@@ -1,14 +1,14 @@
 var mammoth = require("mammoth");
 var fs=require('fs');
 //var x=require("./words.js");
-var rowbyrow=require("./logic.js");
+var rowbyrow=require("./logic1.js");
 
 
 var mailData,genderData,phoneData;
 var mail=[],gender=[],phone=[],newLines=[];
 var html="";
 
-mammoth.extractRawText({path: __dirname+ "/Sample CVs/Sample10.docx"})
+mammoth.extractRawText({path: __dirname+ "/Chandu CV.docx"})
     .then(function(result){
         html = result.value; // The generated HTML
         console.log(html);

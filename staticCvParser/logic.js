@@ -6,8 +6,9 @@ module.exports.myCode=function(){
   var clearRows=[];
   var lines=[],skill=[];
   var keyword;
+
   var words=["ACADEMIC QUALIFICATIONS","PROJECT EXPERIECE","POSITIONS OF RESPONSIBILITY","ACHIEVEMENTS","TECHNICAL SKILLS","PERSONAL DETAILS"]
-  var keySkills=['autocad','ajax','asp.net','asp.net','ado.net','gwt','android','automation','animation','angular js','artifical intelligence','bootstarp','c','c++','c#',
+  var keySkills=['autocad','ajax','asp.net','asp.net','ado.net','gwt','android','automation','animation','angular js','artifical intelligence','bootstarp','c++','c#',
                   'core java','css','computer hardware','cloud computing','computer operating system','dataware','data analysis','data science','data structure','database management',
                   'data entty','embedded system','embedded c','express','codeigniter','functional testing','graphics design','google analytics','html','hardware','hadoop','java',
                   'jquery','javascript','js','j2ee','jsp','linux','matlab','mongodb','mongoose','networking','network administration','network security','network management',
@@ -21,17 +22,18 @@ module.exports.myCode=function(){
   }
 
   function cleanTextByRows(data) {
-    var rows,clearRow;
+    var rows,
+        clearRow;
 
     rows = data.split("\n");
-    
+
     for (var i = 0; i < rows.length; i++) {
       clearRow = cleanStr(rows[i]);
       if (clearRow) {
         clearRows.push(clearRow);
       }
     }
-    
+    //console.log(clearRows
     keyWords(clearRows);
     clearRows=clearRows.join("\n") + "\n";
 
@@ -66,17 +68,18 @@ module.exports.myCode=function(){
       for(i=index;i<clearRows.length;i++)
       {
         let keyy=clearRows[i+1]
-        //console.log("keys are",keyy)
+        //console.log(keyy)
         if(words.includes(keyy))
         {
           break;
         }
         else{
           lines.push(keyy);
+
         }
         }
         //json(lines,words[j]);
-        //console.log("lines are",lines);
+        //console.log(lines);
         x.obj[words[j]]=lines;
     }
   }
@@ -86,6 +89,11 @@ module.exports.myCode=function(){
     var count=0;
     clearRows=clearRows.toString().toLowerCase();
     console.log(keySkills.length);
+    var r=/c\W/;
+    if(r.test(clearRows))
+    {
+      skill.push("c")
+    }
     for(i=0;i<keySkills.length;i++)
     {
 
@@ -100,7 +108,7 @@ module.exports.myCode=function(){
     }
     x.obj["skills"]=skill.toString();
     console.log(skill);
-console.log(count);
+    console.log(count);
   }
 
   //just checkin whethere words is displaying in json format or not
@@ -109,6 +117,6 @@ console.log(count);
   app.get('/',(req,res)=>{
     res.send(x);
   })
-  app.listen(5432);
+  app.listen(5433);
 
  }

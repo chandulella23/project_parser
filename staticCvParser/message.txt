@@ -1,49 +1,45 @@
-Profile
-Experienced Packaging professional with a successful track record of delivering results that meet and exceed expectations. Self-motivated with a passion for precision, accuracy, and execution.
-Ability to provide and implement innovative solutions to collaborate and solve problems on cross-functional teams. Proficient in developing strong working relationships with co-workers, customers, and suppliers.
-Ongoing desire for professional development that directly strengthens results and provides mutual value.
-Experience
-Packaging EngineerSeptember  2014  – Present
-DSC Logistics, Des Plaines, IL
-Packaging project manager for new customer start-ups, innovation, and strategic analysis from pricing through implementation.
-Managing the financial status of 30+ facilities across 15+ customers by using root cause analysis to identify increased efficiency and cost reduction opportunities.
-Improving customer accounts by creating synergy across multiple sites nationally. Driver of strategic initiatives for key customer account that resulted in packaging revenue doubling in comparison to the previous year.
-Led packaging development and commercialization of packaging systems delivering against short and long term business objectives.
-Participated on cross-functional teams to provide professional services for current and potential industry leading CPG, Medical Device, and Food and Beverage customers. Projects drove high profits and assisted in developing strong customer relationships.
-Completed multiple RFP’s for new business that individually equated up to 50% of current total co-packing revenue. Developed the solution and presented to internal upper management as well as the prospective customer.
-Effectively reduced costs and increased efficiency of packaging operations through implementation of ROI justified equipment and various lean initiatives. Investments have totaled over $500,000.
-Trained, developed, and monitored the progress of new employees during onboarding to assure a seamless transition when starting their new role.
-Attended and participated in various industry related training opportunities, conferences, and expo’s to further develop skills. Brought learning’s back and effectively trained peers.
-Associate Packaging EngineerJune 2011 – September   2014
-DSC Logistics, Des Plaines, IL
-Successfully participated in and graduated from DSC’s Successful Careers In Logistics rotational program that has been developed to instill a diverse skill set for young individuals that actively demonstrate leadership qualities.
-Led the implementation of a sustainable and cost effective packaging system for a parcel pick and pack operation using on demand corrugated manufacturing equipment. Project obtained annual cost savings of $70,000 (18%) through a reduction of shipping case size and sustainable packaging methods. Soft savings were realized in gained warehouse space, increased quality, and transportation cost savings.
-Led and participated on various cross-functional start-up teams when integrating anything from new product packaging lines up to new customer accounts.
-Effectively collaborated with multiple customers to develop innovative ways to competitively promote products leading to a growth of revenue and profit.
-Successfully developed and supported healthy customer relationships while responsible for account management of the co- packing division for various customers.
-Packaging Engineering InternMay 2010 – December   2010
-West Pharmaceutical Services, Exton, PA
-Led the validation of a sterilizable label used on packaging of over 600,000 drug delivery system products.
-Investigated and developed sealing parameters for multiple flexible packaging materials. Conducted a Design of Experiment (DOE) for a customer complaint and presented the finding of the DOE to the customer.
-Collaborated with a West Six Sigma Certified Leader during study development to ensure proper sample sizes were established.
-Performed package integrity testing on flexible packaging after simulated distribution testing per ASTM D4169. Testing included Instron Seal Strength, Bubble Leak, Bubble Emission, and Methylene Blue Dye testing.
-Responsible for direct communication with Distributers, Suppliers, and Customers.
-Authored and executed various types of engineering reports that included design of experiments, unit requirement specifications, and protocols.
-Investigated and researched various aseptic packaging methods.
-Education
-Bachelors of Science in PackagingMay  2011 Graduation
-Michigan State University, East Lansing, MI
-Technical Skills
-Microsoft Office (Proficient in Excel) – Microsoft Project – CAPE – ArtiosCAD – AutoCAD – Warehouse Management Systems – SAP – Nulogy PackManager
-Procedures
-Instron Testing (ASTM F88) – Bubble Leak (ASTM F2096) – Bubble Emission (ASTM E515) – Dye Penetration Test (ASTM F1929) – Autoclave Sterilization – Bag Sealing – Clean Room Operations – cGMP – ISO 11607
-Professional Development
-Institute of Packaging Professionals… Member, 2010 - Present
-PMMI Pack Expo… Attendee, 2015
-ProMat… Attendee, 2015
-Nulogy xChange User Conference… Attendee, February 2015
-PMMI Pack Expo… Attendee, 2014
-PMMI Pack Expo… Attendee, 2013
-Introduction to ArtiosCAD Training Course… Trainee, April 2013
-PMMI Pack Expo… Attendee, 2012
-2
+Lella Chandu Sai
+Male
+Email: chandulella77@gmail.com
+Mobile: +919872426742
+ACADEMIC QUALIFICATIONS
+Year of Passing
+Degree
+Institute
+CGPA / Percentage
+2018(pursuing)
+B.Tech(Computer Science Engineering)
+Lovely Professional University, Phagwara
+7.81/10
+2014
+XII(BIEAP)
+Narayana Junior College ,Kodad
+92.0 %
+2012
+X(SSC)
+Sri Chaitanya Techno Schools ,Kodad
+9.2/10
+PROJECTS
+Java Based Virtual Class Room site                                                                                                                 March 2017
+Working on a  which is a user-driven GUI based Java application site. This site is helpful to all streams of students to clear their doubts from other students. Peer to Peer learning is developed in this site. By using net beans IDE this site has been developed.
+hfhfjfbhffbbhhffff
+POSITIONS OF RESPONSIBILITY
+Coordinator, XLR8 Event – Lovely Professional University                    2016-2017
+Captain, Caesars Cricket Team – Sri Chaitanya Techno Schools   2010-2012
+Head Boy, Caesars group – Sri Chaitanya Techno Schools           2010-2012
+Hosted three events                                                                                                                                        2012-2018
+ACHIEVEMENTS
+Certification
+Trained in Web-Development.
+Extra circular Activities
+Developed and deployed a Virtual Class Application in Google Play Store.                               2017
+Worked as a mentor in doubt clearing sessions                                                                          2016-2017
+Awarded 1st Prize in SCTS Cricket Championship– Cricket Competition organized by Sri Chaitanya Techno Schools.                                                                                                                                     2011-2012
+Awarded 2nd Prize in Envigmania-II, organized by Sankalp Envio Organization in Lovely Professional University                                                                                                                                  2014-2015
+TECHNICAL SKILLS
+Languages: core java, HTML, CSS, Data Structures,c++,mongodb,leadership
+Database: MySQL.
+PERSONAL DETAILS
+Date of Birth: 23rd November 1996
+Nationality:Indian
+Address: H.No 8-14, Sarveswarapuram, Near Primary High School, Kodad,  –508206, Telangana

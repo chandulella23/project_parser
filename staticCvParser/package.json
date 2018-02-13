@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "4.16.2",
-    "mammoth": "1.4.4"
+    "mammoth": "1.4.4",
+    "plain-text-data-to-json": "^1.0.1"
   }
 }
